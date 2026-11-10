@@ -1,0 +1,7 @@
+<CommunityApplications>
+  <Profile>
+    Templates for [Cleanplex](https://github.com/nazmolla/Cleanplex): skips or mutes scenes you choose in Plex, for every client including Plex Web. Support and issues go to the [Cleanplex issue tracker](https://github.com/nazmolla/Cleanplex/issues).
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/nazmolla/unraid-templates/main/icon.svg</Icon>
+  <WebPage>https://github.com/nazmolla/Cleanplex</WebPage>
+</CommunityApplications>
